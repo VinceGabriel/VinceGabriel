@@ -1,6 +1,6 @@
 *Hey there!👋*
 
-I’m **Gabriel Avila**, a future Computer Engineering graduate with a focus on Human-Computer Interaction.
+I’m **Gabriel Avila**, a future Computer Engineering graduate with a chosen elective **Human-Computer Interaction**.
 
 I’m passionate about bridging the gap between technology and users to create intuitive and impactful digital experiences.
 
