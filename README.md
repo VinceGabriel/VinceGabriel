@@ -4,6 +4,10 @@
 
 ###
 
+*Hey there!👋*
+
+I’m **Gabriel Avila**, a future Computer Engineering graduate with a chosen elective **Human-Computer Interaction**.
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -15,9 +19,7 @@
 
 ###
 
-*Hey there!👋*
-
-I’m **Gabriel Avila**, a future Computer Engineering graduate with a chosen elective **Human-Computer Interaction**.
+An aspiring engineer from the **Philippines**, passionate about solving real-world problems through innovation. With a focus on making a positive impact through sustainable, cutting-edge solutions.
 
 I’m passionate about bridging the gap between technology and users to create intuitive and impactful digital experiences.
 
