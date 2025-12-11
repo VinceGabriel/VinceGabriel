@@ -12,3 +12,4 @@ My track elective is: **Human-Computer Interaction**
 Passionate about problem-solving and tech
 
 Hobbies: **Coding, gaming, exploring new technologies**
+
