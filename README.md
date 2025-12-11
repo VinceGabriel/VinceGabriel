@@ -24,7 +24,7 @@ I’m passionate about bridging the gap between technology and users to create i
 
 Currently, I’m sharpening my skills in **C++, C, C#,** and Python while diving deep into HCI concepts. My goal is to design systems that make technology more accessible and user-friendly.
 
-*Facts about me:*
+## *Facts about me:*
 
 * My track elective is Human-Computer Interaction
 * Always excited to tackle new coding challenges
@@ -33,7 +33,7 @@ Currently, I’m sharpening my skills in **C++, C, C#,** and Python while diving
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
-*A Bit About Me:*
+## *A Bit About Me:*
 
 🐶 I’m a dog lover
 
