@@ -3,7 +3,7 @@
 </div>
 
 
-### *Hey there!👋*
+## *Hey there!👋*
 
 I’m **Gabriel Avila**, a future Computer Engineering graduate with a chosen elective **Human-Computer Interaction**.
 
