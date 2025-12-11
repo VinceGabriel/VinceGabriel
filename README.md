@@ -10,7 +10,8 @@ Currently, I’m sharpening my skills in **C++, C, C#,** and Python while diving
 
 * My track elective is Human-Computer Interaction
 * Always excited to tackle new coding challenges
-* Hobbies: Coding, gaming, exploring new tech, and experimenting with UX/UI designs
+* Hobbies: Coding, gaming, exploring new tech, and experimenting with UX/UI design
+* 2nd Year Student 
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
