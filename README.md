@@ -1,14 +1,13 @@
-*Hey there!👋
+*Hey there!👋*
 
 I’m **Gabriel Avila**, a future Computer Engineering graduate with a focus on Human-Computer Interaction.
 
-If I get a cool idea, I’ll work on it until I bring it to life!
-Currently learning C++, C, C#, and Python to strengthen my skills for the future.
+I’m passionate about bridging the gap between technology and users to create intuitive and impactful digital experiences.
 
-**Fun Facts:**
+Currently, I’m sharpening my skills in **C++, C, C#,** and Python while diving deep into HCI concepts. My goal is to design systems that make technology more accessible and user-friendly.
 
-My track elective is: **Human-Computer Interaction**
+*Fun Facts:*
 
-Passionate about problem-solving and tech
-
-Hobbies: **Coding, gaming, exploring new technologies**
+* My track elective is Human-Computer Interaction
+* Always excited to tackle new coding challenges
+* Hobbies: Coding, gaming, exploring new tech, and experimenting with UX/UI designs
