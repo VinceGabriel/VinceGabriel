@@ -1,16 +1,14 @@
-## Hi there 👋
+*Hey there!👋
 
-<!--
-**VinceGabriel/VinceGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Gabriel Avila**, a future Computer Engineering graduate with a focus on Human-Computer Interaction.
 
-Here are some ideas to get you started:
+If I get a cool idea, I’ll work on it until I bring it to life!
+Currently learning C++, C, C#, and Python to strengthen my skills for the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun Facts:**
+
+My track elective is: **Human-Computer Interaction**
+
+Passionate about problem-solving and tech
+
+Hobbies: **Coding, gaming, exploring new technologies**
